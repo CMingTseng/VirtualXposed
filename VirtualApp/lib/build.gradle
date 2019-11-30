@@ -43,6 +43,3 @@ dependencies {
     implementation "me.weishu:free_reflection:2.2.0"
 }
 
-repositories {
-    maven { url 'https://jitpack.io' }
-}

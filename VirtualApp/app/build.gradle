@@ -1,9 +1,6 @@
 apply plugin: 'com.android.application'
 apply plugin: 'io.fabric'
 
-repositories {
-    maven { url 'https://maven.fabric.io/public' }
-}
 
 Properties properties = new Properties()
 def localProp = file(project.rootProject.file('local.properties'))
