@@ -1,0 +1,58 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed",
+      "sdkFolder": "D:\\SDK",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\build\\intermediates",
+      "gradleModulePathName": ":lib",
+      "moduleRootFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib",
+      "makeFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\.cxx",
+      "cxxFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx",
+      "ndkFolder": "D:\\SDK\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "X86"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualXposed\\lib\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}
