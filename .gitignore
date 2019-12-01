@@ -30,6 +30,8 @@ tv/*.iml
 .idea
 /build
 /captures
+.cxx/
+/.cxx
 ### Android template
 # Built application files
 *.apk
@@ -88,6 +90,7 @@ tmp/
 .loadpath
 /build
 /captures
+lib/.cxx
 # External tool builders
 .externalToolBuilders/
 
