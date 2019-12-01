@@ -9,10 +9,8 @@ android {
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
-        externalNativeBuild {
-            ndkBuild {
-                abiFilters "armeabi-v7a", "x86"
-            }
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
         }
     }
     buildTypes {

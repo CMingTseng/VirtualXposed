@@ -28,12 +28,8 @@ android {
         versionCode 180
         versionName "0.18.0"
         multiDexEnabled false
-        android {
-            defaultConfig {
-                ndk {
-                    abiFilters "armeabi-v7a", "x86"
-                }
-            }
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
         }
     }
     // https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html?utm_source=android-studio
